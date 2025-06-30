@@ -1,0 +1,35 @@
+{
+  "name": "kalshi-telegram-bot",
+  "version": "1.0.0",
+  "description": "Advanced Telegram bot UI for Kalshi Trading Bot with dynamic monitoring and interaction",
+  "main": "telegram_bot.js",
+  "scripts": {
+    "start": "node telegram_bot.js",
+    "dev": "nodemon telegram_bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kalshi",
+    "trading",
+    "bot",
+    "telegram",
+    "quantitative",
+    "finance"
+  ],
+  "author": "Manus AI",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "ws": "^8.14.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
+
