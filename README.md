@@ -1,5 +1,9 @@
 # Kalshi Advanced Quantitative Trading Bot
 
+> 🔄 **Updated Repository:**  
+> The latest version of the project is now maintained [**here**](https://github.com/LoQiseaking69/enhanced-kalshi-bot/tree/main).
+
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Features](#features)
